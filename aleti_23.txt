@@ -1,0 +1,12 @@
+Name: aleti
+Age: 23
+
+Which fruit do you like best?
+mango
+
+How many eyes do you have?
+2
+
+Do you like cupcakes?
+yes
+
