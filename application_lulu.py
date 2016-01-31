@@ -1,5 +1,11 @@
+import appnope
+appnope.nope()
+
+
 from flask import Flask,render_template,request,redirect
 app_lulu = Flask(__name__)
+
+
 
 app_lulu.vars={}
 
