@@ -68,4 +68,4 @@ def next_lulu2():  #can't have two functions with the same name
     return redirect('/main_lulu')
 
 if __name__ == "__main__":
-    app_lulu.run(debug=True)
+    app_lulu.run(port=33507)
